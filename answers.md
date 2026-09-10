@@ -46,4 +46,6 @@ Examples are found in the pytests
 
   $n^{c} + n^{c}r + n^{c}r^{2}$... bottom leaf dominates, so $θ(n^{\log_b a})$
 
-- **7) (2 points)** Derive the asymptotic expressions for the span of the recurrences you used in problem 4 above. Confirm that everything matches up as it should. 
+- **7) (2 points)** Derive the asymptotic expressions for the span of the recurrences you used in problem 4 above. Confirm that everything matches up as it should.
+
+  The number of levels is $\log_2 n$
