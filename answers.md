@@ -54,6 +54,6 @@ Examples are found in the pytests
 
   When $f(n) = n$, $S(n) = S(\frac{n}{2}) + n = S(1) + n + \frac{n}{2}... = θ(n)$
 
-  When $f(n) = n^{2}$, $W(n) = θ(n^{2})$
+  When $f(n) = n^{2}$, $S(n) = S(\frac{n}{2}) + n^{2} = S(1) + n^{2} + \frac{n^{2}}{4}... = θ(n^{2})$
 
   Examples are found in the pytests
