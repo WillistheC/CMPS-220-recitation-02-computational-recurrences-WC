@@ -40,7 +40,7 @@ Examples are found in the pytests
 
   2. $\log_b a = c$, then $r = 1$, and $\frac{a}{b^{c}} = 1$
 
-  $n^{c} + n^{c} + n^{c}$... there are $\log_b n$ levels, so cost is $n^{c}\log_b n$
+  $n^{c} + n^{c} + n^{c}$... there are $\log_b n$ levels, so cost is $n^{c}\log_b n$ so $θ(n^{c}\log n)$
 
   3. $\log_b a > c$, then $r > 1$, and $\frac{a}{b^{c}} > 1$ 
 
