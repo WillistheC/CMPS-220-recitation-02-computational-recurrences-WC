@@ -36,7 +36,7 @@ Examples are found in the pytests
 
   1. $\log_b a < c$, then $r < 1$, and $\frac{a}{b^{c}} < 1$
 
-  $n^{c} + n^{c}r + n^{c}r^{2}$... so $θ(n^{\log_2 2})
+  $n^{c} + n^{c}r + n^{c}r^{2}$... so $θ(n^{\log_a b})$
 
   2. $\log_b a = c$, then $r = 1$, and $\frac{a}{b^{c}} = 1$
 
