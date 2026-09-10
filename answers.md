@@ -8,7 +8,7 @@
 Place all written answers from `recitation-02.md` here for easier grading.
 
 - **4) (3 points)** Now, derive the asymptotic behavior of $W(n)$ using $f(n) = 1$, $f(n) = n$, and $f(n) = n^2$  with $a=2$ and $b=2$. Then, generate actual values for $W(n)$ for your code and confirm that the trends match your derivations.
-
+$2W(\frac{n}{2})$ goes to $n^{\log_2 2} = θ(n)$
 - **5) (4 points)** Now that you have a nice way to empirically 
   generate values of $W(n)$, we can look at the relationship 
   between $a$, $b$, and $f(n)$. If $f(n) = n^c$, we can derive 
