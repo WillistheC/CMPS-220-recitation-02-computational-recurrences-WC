@@ -49,3 +49,11 @@ Examples are found in the pytests
 - **7) (2 points)** Derive the asymptotic expressions for the span of the recurrences you used in problem 4 above. Confirm that everything matches up as it should.
 
   The number of levels is $\log_2 n$
+
+  When $f(n) = 1$, $S(n) = S(1) + \log_2 n = θ(\log n)$
+
+  When $f(n) = n$, $W(n) = θ(n\log n)$
+
+  When $f(n) = n^{2}$, $W(n) = θ(n^{2})$
+
+  Examples are found in the pytests
