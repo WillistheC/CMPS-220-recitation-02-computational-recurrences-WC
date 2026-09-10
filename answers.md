@@ -52,7 +52,7 @@ Examples are found in the pytests
 
   When $f(n) = 1$, $S(n) = S(1) + \log_2 n = θ(\log n)$
 
-  When $f(n) = n$, $W(n) = θ(n\log n)$
+  When $f(n) = n$, $S(n) = S(\frac{n}{2}) + n = S(1) + n + \frac{n}{2}... = θ(n)$
 
   When $f(n) = n^{2}$, $W(n) = θ(n^{2})$
 
