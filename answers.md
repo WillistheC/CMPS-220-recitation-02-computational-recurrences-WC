@@ -34,10 +34,10 @@ Examples are found in the pytests
   general recursion tree for each of the three cases. Show your 
   recursion tree and derivations from it.
 
-  1. $\log_b a < c$, then $r < 1$
+  1. $\log_b a < c$, then $r < 1$, and $\frac{a}{b^{c}} < 1$
 
-  2. $\log_b a = c$, then $r = 1$
+  2. $\log_b a = c$, then $r = 1$, and $\frac{a}{b^{c}} = 1$
 
-  3. $\log_b a > c$, then $r > 1$ 
+  3. $\log_b a > c$, then $r > 1$, and $\frac{a}{b^{c}} > 1$ 
 
 - **7) (2 points)** Derive the asymptotic expressions for the span of the recurrences you used in problem 4 above. Confirm that everything matches up as it should. 
