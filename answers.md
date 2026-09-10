@@ -40,6 +40,8 @@ Examples are found in the pytests
 
   2. $\log_b a = c$, then $r = 1$, and $\frac{a}{b^{c}} = 1$
 
+  $n^{c} + n^{c} + n^{c}$... there are $\log_b n$ levels, so cost is $n^{c}\log_b n$
+
   3. $\log_b a > c$, then $r > 1$, and $\frac{a}{b^{c}} > 1$ 
 
 - **7) (2 points)** Derive the asymptotic expressions for the span of the recurrences you used in problem 4 above. Confirm that everything matches up as it should. 
